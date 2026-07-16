@@ -16,3 +16,4 @@ data/*
 data/attachments/*
 !data/attachments/.gitkeep
 exports/
+.idea
